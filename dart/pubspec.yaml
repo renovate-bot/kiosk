@@ -3,7 +3,7 @@ description: Dart gRPC sample client and server.
 homepage: https://github.com/dart-lang/grpc-dart
 
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+  sdk: '<4.0.0'
 
 dependencies:
   args: ^1.5.1
