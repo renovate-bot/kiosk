@@ -100,7 +100,7 @@ protobuf {
             artifact = 'com.google.protobuf:protoc-gen-javalite:3.0.0'
         }
         client {
-            artifact = 'com.github.googleapis:gapic-generator-kotlin:v0.3.1:core@jar'
+            artifact = 'com.github.googleapis:gapic-generator-kotlin:0.6.0:core@jar'
         }
     }
     generateProtoTasks {
